@@ -1198,4 +1198,4 @@ Values:
 `,wce=as.div`
   max-width: 900px;
   margin: 0 auto;
-`;function xce(){const{network:e}=Au();return Xt(bce,{children:Xt(wce,{children:_i(sg,{children:[_i(fu,{children:[Xt(_B,{}),Xt(ug,{children:e?e===$s.MAINNET?"mainnet":"testnet":"N/A"})]}),Xt(dce,{}),Xt(yce,{}),Xt(mce,{})]})})})}const Mce="https://raw.githubusercontent.com/ton-community/tutorials/main/03-client/test/public/tonconnect-manifest.json",_ce=new NL({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});y4.createRoot(document.getElementById("root")).render(Xt(LZ,{manifestUrl:Mce,children:Xt(nD,{client:_ce,children:Xt(xce,{})})}));
+`;function xce(){const{network:e}=Au();return Xt(bce,{children:Xt(wce,{children:_i(sg,{children:[_i(fu,{children:[Xt(_B,{}),Xt(ug,{children:e?e===$s.MAINNET?"mainnet":"testnet":"N/A"})]}),Xt(dce,{}),Xt(yce,{}),Xt(mce,{})]})})})}const Mce="https://wmbalex.github.io/twa-ton/tonconnect-manifest.json",_ce=new NL({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});y4.createRoot(document.getElementById("root")).render(Xt(LZ,{manifestUrl:Mce,children:Xt(nD,{client:_ce,children:Xt(xce,{})})}));
